@@ -1,0 +1,15 @@
+Food Ordering App
+
+Class:
+User 
+
+Attributes:
+- Username (string)
+- Address (string)
+- CC number (integer)
+- Order history (array)
+
+Methods:
+- Add_Favorites
+- Add_New_Payment Methods
+- Update _Address

@@ -1,0 +1,16 @@
+Food Ordering App
+
+Class:
+Restaurants
+
+Attributes:
+- Name of restaurant (string)
+- Address (string)
+- Delivery wait time (datetime)
+- Open or closed (boolean)
+- Rating (array)
+
+Methods:
+- Add_Review
+- Star_for_Favorite
+- Share

@@ -1,0 +1,15 @@
+Food Ordering App
+
+Class:
+Bag (check out)
+
+Attributes:
+- Name of Restaurant (string)
+- Menue items (string)
+- Order total (integer)
+- Delivery estimate (datetime)
+
+Methods:
+- Delete_Item
+- Add_Item
+- Repeat_Last_Order
